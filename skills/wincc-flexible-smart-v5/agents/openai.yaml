@@ -1,0 +1,4 @@
+interface:
+  display_name: "WinCC flexible SMART V5"
+  short_description: "Attach to WinCC flexible SMART V5 and inspect live hmismart tag addresses."
+  default_prompt: "Use $wincc-flexible-smart-v5 to connect to the open WinCC flexible SMART V5 editor and read the current address of the requested HMI variable."
